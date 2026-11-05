@@ -1,0 +1,3 @@
+Temporary GitHub upload test.
+Created by dot on 2026-11-05 to verify file upload.
+This file contains test text only.
